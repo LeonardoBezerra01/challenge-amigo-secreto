@@ -29,4 +29,4 @@ Este projeto consiste em um site interativo de **Amigo Secreto**, onde os usuár
 
 Você pode acessar o projeto on-line clicando no link abaixo:
 
-👉 [Jogo Amigo Secreto](https://github.com/LeonardoBezerra01/challenge-amigo-secreto.git)
+👉 [Jogo Amigo Secreto](https://leonardobezerra01.github.io/challenge-amigo-secreto/)
