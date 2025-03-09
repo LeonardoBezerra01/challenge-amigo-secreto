@@ -4,6 +4,8 @@
   O Jogo Amigo Secreto é um site interativo que permite adicionar e organizar sua lista de participantes, garantindo um sorteio divertido e justo!
 </p>
 
+---
+
 ## 🛠 Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:  
@@ -17,13 +19,18 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto consiste em um site interativo de **Amigo Secreto**, onde os usuários podem adicionar os nomes dos amigos e sortear quem ficará com quem. O jogo permite que você gerencie sua lista de amigos de forma dinâmica e interativa.
 
-🎯 **Principais funcionalidades:**
+---
+
+## 🎯 Principais funcionalidades:
+
 1. Adicionar amigos ao jogo.
 2. Sortear aleatoriamente os amigos secretos.
 3. Exibir quem será o amigo secreto de cada pessoa.
 4. Interface amigável e dinâmica.
 5. Tela totalmente responsiva, adaptada para diferentes dispositivos.
 6. Validações para garantir que o sorteio seja imparcial e sem repetições.
+
+---
 
 ## 🌍 Acesse o Projeto
 
